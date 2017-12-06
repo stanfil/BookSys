@@ -1,0 +1,14 @@
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe.config
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.exe
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\bin\Debug\BOOKSYS.pdb
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csprojResolveAssemblyReference.cache
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form1.resources
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Properties.Resources.resources
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csproj.GenerateResource.Cache
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.csproj.CoreCompileInputs.cache
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.exe
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.pdb
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form2.resources
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form3.resources
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form4.resources
+C:\Users\Rookie\source\repos\BOOKSYS\BOOKSYS\obj\Debug\BOOKSYS.Form5.resources
